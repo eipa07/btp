@@ -11,6 +11,7 @@ sap.ui.define([
             onInit: function () {
 
                 // Comment - Epina. 
+                var c = 0;
             }
         });
     });
