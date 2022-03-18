@@ -10,8 +10,7 @@ sap.ui.define([
         return Controller.extend("ns3.project1.controller.View1", {
             onInit: function () {
 
-                // Comment - Epina.
-                var a = "";
+                // Comment - Epina. 
             }
         });
     });
