@@ -5,7 +5,7 @@
     "abap_language": "EN",
     "conn_server": "http://s4h22.sap4practice.com:8007",
     "conn_user": "mbtps2105",
-    "conn_password": "Cafetera01",
+    "conn_password": "",
     "abap_package": "ZBTP2105",
     "abap_transport": "S4HK901602",
     "abap_bsp": "ZPROD_2105",
